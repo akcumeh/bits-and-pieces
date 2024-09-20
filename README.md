@@ -1,2 +1,4 @@
-# bits-and-pieces
- Bits & Pieces will feature various web features and components.
+## bits-and-pieces
+    Bits & Pieces will feature various web features and components.
+
+## Table of Contents
