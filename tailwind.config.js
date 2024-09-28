@@ -12,6 +12,15 @@ module.exports = {
         },
 
         spacing: {
+            1: '0.5rem',
+            2: '1rem',
+            3: '1.5rem',
+            4: '2.5rem',
+            5: '4rem',
+            6: '6rem',
+        },
+
+        sizing: {
             sm: '0.5rem',
             md1: '1rem',
             md2: '1.5rem',
@@ -32,6 +41,7 @@ module.exports = {
                     dark: '#85586F',
                 },
                 brown: {
+                    lighter: '#E8CBAF',
                     light: '#D9B26E',
                     med: '#9C563D',
                     DEFAULT: '#654534',
@@ -58,9 +68,6 @@ module.exports = {
                 // add more colors
             },
         },
-
-        // item: {
-        // }
     },
     plugins: [],
 };
