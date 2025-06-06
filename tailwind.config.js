@@ -1,34 +1,7 @@
 /** @type {import('tailwindcss').Config} */
-
-const defaultTheme = require('tailwindcss/defaultTheme')
-module.exports = {
-    content: ["./src/**/*.{html,js}"],
+export default {
+    content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
     theme: {
-        screens: {
-            sm: '480px',
-            md: '768px',
-            lg: '1000px',
-            xl: '1280px',
-        },
-
-        spacing: {
-            1: '0.5rem',
-            2: '1rem',
-            3: '1.5rem',
-            4: '2.5rem',
-            5: '4rem',
-            6: '6rem',
-        },
-
-        sizing: {
-            sm: '0.5rem',
-            md1: '1rem',
-            md2: '1.5rem',
-            md3: '2.5rem',
-            lg: '4rem',
-            xl: '6rem',
-        },
-
         extend: {
             fontFamily: {
                 sans: ['Inter var', ...defaultTheme.fontFamily.sans],
@@ -65,8 +38,8 @@ module.exports = {
                     DEFAULT: '#365486',
                     dark: '#0F1035',
                 },
-                // add more colors
             },
+            
         },
     },
     plugins: [],

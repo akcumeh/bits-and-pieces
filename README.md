@@ -28,8 +28,8 @@ Mobile
 ![Mobile Site](./src/images/screenshots/mobile-screenshot.jpg)
 
 ### Links
-- [GitHub repo](https://github.com/akcumeh/09-tip-calculator-app) - (you are here)
-- [Live Site](https://akcumeh.github.io/09-tip-calculator-app) - (you are not here)
+- [GitHub repo](https://github.com/akcumeh/bits-and-pieces) - (you are here)
+- [Live Site](https://akcumeh.github.io/bits-and-pieces) - (you are not here)
 
 
 
@@ -37,17 +37,19 @@ Mobile
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Mobile-first workflow
+- [React.JS](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [jQuery](https://jquery.com)
+- [jQuery](https://jquery.org/)
 
 ### What I learned
+- sth ab r
+- sth ab 
+
 ### Useful resources
 
 - This [FreeCodeCamp.org TailwindCSS course](https://youtu.be/ft30zcMlFao?si=hchw3KLEJxAoFnnX) - helped sort me out after I'd read the Tailwind docs but was still feeling lost.
-- [blah](blah)
+
 
 ### Continued development
 
